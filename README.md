@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hitesh Rasal - iOS Developer
 - 👀 I’m interested in iOS
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Flutter
 
 
 <!---
